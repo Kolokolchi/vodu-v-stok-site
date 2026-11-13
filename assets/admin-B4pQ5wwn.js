@@ -1,0 +1,1 @@
+import{_ as e,h as t,m as n}from"./index-BfN7r0uH.js";function r(){return t(`section`,{className:`wrap section`,children:[n(`h1`,{children:`Панель управления`}),n(`p`,{children:`Вход для владельца и сотрудников.`}),n(`a`,{className:`button`,href:e.origin+`/admin/`,children:`Открыть панель управления`})]})}export{r as Admin};
